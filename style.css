@@ -1,0 +1,16 @@
+html {background-color: rgb(29, 45, 59)} 
+div{margin-top: 10%; margin-left: 5%; margin-right: 5%;}
+img {margin: 0;}
+h2 {color: rgb(245, 255, 103);}
+h1 {color: rgb(245, 255, 103);}
+#üst {text-decoration: double; margin-bottom: 0px;}
+#özet {margin-top: 5%; margin-bottom: 5%;}
+#body {margin-top: 5;}
+html{color: rgb(255, 255, 255);font-size: 13pt; font-family: "Inter",sans-serif;}
+footer{margin-bottom: 02%; color: rgb(245, 255, 103); text-align: center;}
+img{border: 5px solid rgb(0, 0, 0);}
+a {color: rgb(245, 255, 103);}
+#saka {text-align: right;}
+#sakaa {width: 400px; float: right; margin-right: 10%;}
+
+
